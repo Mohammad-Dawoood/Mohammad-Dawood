@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**Mohammad-Dawoood/Mohammad-Dawoood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create blog posts and open source packages mainly about python and data engineering, data Science and data Analyses.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [github.com](https://github.com/Mohammad-Dawoood/Mohammad-Dawoood).  If you found value in something I have created, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-dawood-364a471b0/), or send me a message  on [Instagram](https://www.instagram.com/___.d.________/").  I would love to see you there.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<a href="https://twitter.com/Mohamma07063227"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/___.d.________/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-dawood-364a471b0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on [blog](https://imdawood001.blogspot.com/).
+
+I write about things I am familiar with  and things that I am learning.  Day to day I make things with **data** using **python** , **Machine Learning** ,**MySQL** , **Tableau** and **Exel**. 
+
+[Latest blog Post 👉](https://imdawood001.blogspot.com/)
+
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
+
+---
+
