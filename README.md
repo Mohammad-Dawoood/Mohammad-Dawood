@@ -1,10 +1,10 @@
 
-I create blog posts and open source packages mainly about python and data engineering, data Science and data Analyses.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [github.com](https://github.com/Mohammad-Dawoood/Mohammad-Dawoood).  If you found value in something I have created, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-dawood-364a471b0/), or send me a message  on [Instagram](https://www.instagram.com/___.d.________/").  I would love to see you there.
+I love to do Machine Learning Modeling and Deep learning Modeling. I'm good in Python too. I create blog posts and open source packages mainly about python and data engineering, data Science and data Analyses.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [github.com](https://github.com/Mohammad-Dawoood/Mohammad-Dawoood).  If you found value in something I have created, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-dawood-364a471b0/), or send me a message  on [Instagram](https://www.instagram.com/m.dawood_irfan/").  I would love to see you there.
 
 
 <p align='center'>
 <a href="https://twitter.com/Mohamma07063227"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/___.d.________/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/m.dawood_irfan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohammad-dawood-364a471b0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
@@ -14,9 +14,9 @@ I create blog posts and open source packages mainly about python and data engine
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### My favourite work
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+I am a Data Science Enthusiastic. I love to do work on Python. I am always ready to do Modeling on the Data. My favourite Machine Learning model is Random Forest because it is useful in both Classification and Regression Problem. Apart from that, I Write blogs about my learnings and the experience I got from it. You can take a look at my work on the files I upload on Github and read the blogs I write after completing a task. Hope you like it. Thank you.
 
  ---
 
