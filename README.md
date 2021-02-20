@@ -16,7 +16,7 @@ I love to do Machine Learning Modeling and Deep learning Modeling. I'm good in P
  
 ### My favourite work
 
-I am a Data Science Enthusiastic. I love to do work on Python. I am always ready to do Modeling on the Data. My favourite Machine Learning model is Random Forest because it is useful in both Classification and Regression Problem. Apart from that, I Write blogs about my learnings and the experience I got from it. You can take a look at my work on the files I upload on Github and read the blogs I write after completing a task. Hope you like it. Thank you.
+I am a Data Science Enthusiastic. I am always craving to participate in Hackathon. I love to work on Python. I am always ready to do Modeling on the Data. My favourite Machine Learning model is Random Forest because it is useful in both Classification and Regression Problem. Apart from that, I Write blogs about my learnings and the experience I got from it. You can take a look at my work on the files I upload on Github and read the blogs I write after completing a task. Hope you like it. Thank you.
 
  ---
 
